@@ -3,8 +3,6 @@ TaskFlow – Simple Task Manager (Flutter Project)
 
 TaskFlow is a clean and lightweight task management application built using Flutter.
 It allows users to create, edit, manage, and track tasks without using any database.
-All data is stored temporarily in memory, making the project simple and perfect for
-university-level submissions.
 
 -------------------------------------------------
 Features
